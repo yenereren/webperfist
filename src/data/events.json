@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Web Vitals",
+      "displayName": "How to read a WebPageTest waterfall chart",
+      "description": "Measuring Web Perf, Core Vitals and Lighthouse workshop",
+      "date": "1 Eylül 2021",
+      "instructor": "Eren Yener"
+    },
+    {
+        "title": "Optimization tips for React",
+        "displayName": "Optimizing React Apps",
+        "description": "Best practices for lighter react renderings and other stuff",
+        "date": "15 Eylül 2021",
+        "instructor": "Yunus Emre Dilber"
+    },
+    {
+        "title": "Optimization tips for Vue",
+        "displayName": "Optimizing Vue Apps",
+        "description": "Best practices for lighter vue renderings and other stuff",
+        "date": "29 Eylül 2021",
+        "instructor": "Batuhan Tozun"
+    },
+    {
+        "title": "Critical CSS",
+        "displayName": "Faster LCP and FCP by applying Critical CSS",
+        "description": "Achieving faster LCP with Critical CSS",
+        "date": "29 Eylül 2021",
+        "instructor": "Hasan Genç"
+    }
+  ]
+  
+
+
+  

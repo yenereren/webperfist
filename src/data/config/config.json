@@ -3,9 +3,9 @@
         "show_call_box": true
     },
     "logo": {
-        "mobile": "/images/logo/logo-mobile.svg",
+        "mobile": "/images/logo/logo.svg",
         "desktop": "/images/logo/logo.svg",
-        "desktop_height": "36px",
+        "desktop_height": "72px",
         "alt": "Serif - A Gatsby Business Theme"
     },
     "homepage_meta_tags": {

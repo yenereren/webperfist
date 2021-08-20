@@ -1,6 +1,5 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import SEO from '../components/SEO';
 import Layout from '../components/Layout';
 
 const Basic = ({ data }) => {
@@ -25,7 +24,6 @@ export const query = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        path
       }
       fields {
         slug

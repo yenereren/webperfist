@@ -1,2 +1,107 @@
 .page-home {
+    .logo{
+        margin-left: -15px;
+        margin-bottom: 15px;
+    }
+
+    .section-seperator {
+        width: 100%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        background-color: #764e9f;
+        padding: 30px;
+    }
+
+    .container-title {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .event {
+        background-color: #fff;
+        padding: 50px 15px;
+        display: flex;
+        color: block;
+        border-radius: 10px;
+        -webkit-box-shadow: 0 0 30px rgba(104, 98, 98, 0.2);
+        border: 1px solid #eaf0f7;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.20);
+        height: 220px;
+
+        .code {
+            justify-content: center;
+            align-items: center;
+            display: flex;
+
+            .circle {
+                width: 60px;
+                height: 60px;
+                background-color: #764e9f;
+                color: white;
+                display: flex;
+                font-size: 12px;
+                border-radius: 50%;
+                font-weight: bold;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+        .info {
+            margin-left: 5px;
+
+            .event-title {
+                font-size: 23px;
+                font-weight: bold;
+            }
+
+            .description{
+                margin-top: 15px;
+            }
+
+            .date{
+                font-size: 17px;
+            }
+        }
+
+        .instructor{
+
+            display: flex;
+            margin-left: auto;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+
+            .img{
+                height: 100px;
+                border-radius: 50%;
+            }
+
+            .name{
+                font-size:11px;
+                font-weight: bold;
+                margin-top: 5px;
+            }
+        }
+    }
+
+    .speaker-container{
+        background-color: #fff;
+        padding: 50px 15px;
+        display: flex;
+        color: block;
+        border-radius: 10px;
+        -webkit-box-shadow: 0 0 30px rgba(104, 98, 98, 0.2);
+        border: 1px solid #eaf0f7;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.20);
+        height: 220px;
+
+        .speaker-image{
+            img{
+                height: 100px;
+                border-radius: 50%;
+            }
+        }
+    }
 }
+
