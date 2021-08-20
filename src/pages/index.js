@@ -40,9 +40,6 @@ const Home = props => {
           </div>
         </div>
       </div>
-
-      <div className="section-seperator"></div>
-
       
       {events.length > 0 && (
         <div className="container">
@@ -77,9 +74,6 @@ const Home = props => {
         </div>
       )}
 
-
-      <div className="section-seperator"></div>
-
       <div className="container">
           <div className="container-title">
             <h1>Konuşmacı ol</h1>
@@ -104,8 +98,6 @@ const Home = props => {
             
           </div>
       </div>
-
-      <div className="section-seperator"></div>
 
       <div className="container mb-6">
         <div className="row justify-content-start">
