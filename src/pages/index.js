@@ -100,9 +100,9 @@ const Home = props => {
       </div>
 
       <div className="container mb-6">
-        <div className="row justify-content-start">
-          <h1>Konuşmacılar</h1>
-        </div>
+        <div className="container-title">
+            <h1>Konuşmacı ol</h1>
+          </div>
         <div className="row justify-content-center">
           {members.map(({ node }) => (
             <div key={node.id} className="col-6 mb-2">
