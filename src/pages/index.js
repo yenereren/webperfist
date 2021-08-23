@@ -11,6 +11,7 @@ const Home = props => {
   const members = props.data.members.edges;
   const config = props.data.configJson;
 
+
   return (
     <Layout bodyClass="page-home">
       <SEO title={site.title} />
@@ -74,54 +75,12 @@ const Home = props => {
         </div>
       )}
 
-      <div className="container">
-          <div className="container-title">
-            <h1>Konuşmacı ol</h1>
-          </div>
+      <div className="container mt-3 mb-3">
 
-          <div className="row">
-            <div className="col-6">
-              <label for="firstName" class="form-label">İsim</label>
-              <input type="text" class="form-control" id="firstName" placeholder="" value="" required=""></input>
-            </div>
-            <div className="col-6">
-              <label for="firstName" class="form-label">Soyisim</label>
-              <input type="text" class="form-control" id="firstName" placeholder="" value="" required=""></input>
-            </div>
-            <div className="col-12 mt-2">
-              <label for="firstName" class="form-label">Email</label>
-              <input type="text" class="form-control" id="firstName" placeholder="" value="" required=""></input>
-            </div>
-            <div className="col-12 mt-2">
-              <button className="btn-block">Gönder</button>
-            </div>
-            
-          </div>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCjzsICzKWqa16i4urzSGUheRq-Cx2BJTiLDd7fSSNrVnRyw/viewform?embedded=true" frameBorder="0" className="speaker-form-iframe">Yükleniyor…</iframe>
+
+
       </div>
-
-      <div className="container mb-6">
-        <div className="container-title">
-            <h1>Konuşmacı ol</h1>
-          </div>
-        <div className="row justify-content-center">
-          {members.map(({ node }) => (
-            <div key={node.id} className="col-6 mb-2">
-              <div className="speaker-container">
-                {node.image && (
-                  <div className="speaker-image">
-                    <img src={node.image} />
-                  </div>
-                )}
-                <h2 className="speaker-title">{node.name}</h2>
-                <div className="speaker-content">{node.title}</div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-
-
-      
 
     </Layout>
   );
