@@ -1,5 +1,4 @@
 .logo {
-  display: none;
   @include media-breakpoint-up(sm) {
     display: block;
   }

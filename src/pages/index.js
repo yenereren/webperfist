@@ -25,14 +25,14 @@ const Home = props => {
       <div className="intro">
         <div className="container">
           <div className="row justify-content-start">
-            <div className="col-6 col-md-6 col-lg-6">
+            <div className="col-12 col-md-6 col-lg-6">
               <img className="logo" height={config.logo.desktop_height} alt={config.logo.alt} src={config.logo.desktop} />
               <div dangerouslySetInnerHTML={{ __html: intro.html }} />
             </div>
 
             <div className="col-6 col-md-6 col-lg-6">
               {intro.frontmatter.intro_image && (
-                <div className="col-12">
+                <div className="col-12 intro-image">
                   <img alt={intro.frontmatter.title}  src={intro.frontmatter.intro_image} />
                 </div>
               )}
@@ -50,7 +50,7 @@ const Home = props => {
 
           <div className="row">
           {events.map(({ node }) => (
-            <div key={node.id} className="col-6 col-md-6 mb-2">
+            <div key={node.id} className="col-12 col-md-6 mb-2">
               <div className="event">
                 <div className="info">
                   <div className="event-title">

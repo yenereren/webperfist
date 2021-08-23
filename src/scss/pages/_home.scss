@@ -1,4 +1,11 @@
 .page-home {
+
+    .intro-image{
+        @include media-breakpoint-down(sm) {
+            display: none;
+        }
+    }
+
     .logo{
         margin-left: -15px;
         margin-bottom: 15px;
