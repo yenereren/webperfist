@@ -6,6 +6,14 @@
         }
     }
 
+    .social-media-container{
+        display: flex;
+
+        .twitter-icon{
+            margin-left: 4px;
+        }
+    }
+
     .logo{
         margin-left: -15px;
         margin-bottom: 15px;
@@ -116,4 +124,9 @@
 .speaker-form-iframe{
     width: 100%;
     height: 800px;
+}
+
+.newsletter-iframe{
+    width: 100%;
+    height: 600px;
 }
