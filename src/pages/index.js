@@ -63,8 +63,8 @@ const Home = props => {
                   </div>
                 </div>
                 <div className="instructor">
-                  <img className="img" src="https://media-exp1.licdn.com/dms/image/C4D03AQGukrG-P0ISbg/profile-displayphoto-shrink_200_200/0/1608570863263?e=1634774400&v=beta&t=uRJAxYVlJuuI7k8aHadRwfz24Iutr2u58drOq9PdzIk"></img>
-                  <div className="name">{node.instructor}</div>
+                  <img className="img" src={node.instructor.image}></img>
+                  <div className="name">{node.instructor.name}</div>
 
                 </div>
               </div>
@@ -166,7 +166,10 @@ export const query = graphql`
           displayName
           description
           date
-          instructor
+          instructor {
+            name
+            image
+          }
         }
       }
     }
