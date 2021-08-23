@@ -4,28 +4,40 @@
       "displayName": "How to read a WebPageTest waterfall chart",
       "description": "Measuring Web Perf, Core Vitals and Lighthouse workshop",
       "date": "1 Eylül 2021",
-      "instructor": "Eren Yener"
+      "instructor": {
+        "name": "Eren Yener",
+        "image": "https://media-exp1.licdn.com/dms/image/C5603AQGRKqPLRqQRmw/profile-displayphoto-shrink_200_200/0/1517367653471?e=1634774400&v=beta&t=1HmjxzkZsXc4KOLLjZEa_vafPEa9F-xY87JRa7ZeTXw"
+        }
     },
     {
         "title": "Optimization tips for React",
         "displayName": "Optimizing React Apps",
         "description": "Best practices for lighter react renderings and other stuff",
         "date": "15 Eylül 2021",
-        "instructor": "Yunus Emre Dilber"
+        "instructor": {
+            "name": "Yunus Emre Dilber",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGukrG-P0ISbg/profile-displayphoto-shrink_200_200/0/1608570863263?e=1634774400&v=beta&t=uRJAxYVlJuuI7k8aHadRwfz24Iutr2u58drOq9PdzIk"
+        }
     },
     {
         "title": "Optimization tips for Vue",
         "displayName": "Optimizing Vue Apps",
         "description": "Best practices for lighter vue renderings and other stuff",
         "date": "29 Eylül 2021",
-        "instructor": "Batuhan Tozun"
+        "instructor": {
+            "name": "Batuhan Tozun",
+            "image": ""
+        }
     },
     {
         "title": "Critical CSS",
         "displayName": "Faster LCP and FCP by applying Critical CSS",
         "description": "Achieving faster LCP with Critical CSS",
         "date": "29 Eylül 2021",
-        "instructor": "Hasan Genç"
+        "instructor": {
+            "name": "Hasan Genç",
+            "image": "https://media-exp1.licdn.com/dms/image/C5603AQHA9OLHtQEGIA/profile-displayphoto-shrink_200_200/0/1517885761063?e=1634774400&v=beta&t=MUGQcGMMtHxG_AJWmqeb83nsH4P11mBfMlKfLseRpCU"
+        }
     }
   ]
   
