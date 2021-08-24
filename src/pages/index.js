@@ -106,7 +106,7 @@ const Home = props => {
                   </div>
                 </div>
                 <div className="instructor">
-                  <img className="img" src={node.instructor.image}></img>
+                  <img className="img" loading="lazy" width="100" height="100" src={node.instructor.image}></img>
                   <div className="name">{node.instructor.name}</div>
 
                 </div>
