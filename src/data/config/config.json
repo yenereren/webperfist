@@ -11,21 +11,14 @@
         "mobile": "/images/logo/logo.svg",
         "desktop": "/images/logo/logo.svg",
         "desktop_height": "72px",
-        "alt": "Serif - A Gatsby Business Theme"
+        "alt": "Webperfist logo"
     },
     "homepage_meta_tags": {
-        "meta_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
-        "meta_og_title": "Gatsby Serif Theme",
+        "meta_description": "Web performans üzerine odaklanmış bir topluluktur.Amacımız ulaştığımız kitlelere, web'i olabildiğince hızlı ve doğru bir şekilde ulaştırmaktır.",
+        "meta_og_title": "Webperf.ist",
         "meta_og_type": "website",
-        "meta_og_url": "https://hugo-gatsby.netlify.app",
-        "meta_og_image": "https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png",
-        "meta_og_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
-        "meta_twitter_card": "summary",
-        "meta_twitter_site": "@zerostaticio",
-        "meta_twitter_creator": "@zerostaticio"
-    },
-    "footer": {
-        "copyright_text": "Free Gatsby theme by",
-        "copyright_link": "https://www.zerostatic.io"
+        "meta_og_url": "https://webperf.ist",
+        "meta_og_description": "Web performans üzerine odaklanmış bir topluluktur.Amacımız ulaştığımız kitlelere, web'i olabildiğince hızlı ve doğru bir şekilde ulaştırmaktır.",
+        "meta_twitter_card": "Webperf.ist"
     }
 }

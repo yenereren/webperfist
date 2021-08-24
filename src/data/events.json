@@ -1,19 +1,17 @@
 [
     {
       "title": "Web Vitals",
-      "displayName": "How to read a WebPageTest waterfall chart",
       "description": "Measuring Web Perf, Core Vitals and Lighthouse workshop",
-      "date": "1 Eylül 2021",
+      "date": "5 Ekim 2021",
       "instructor": {
         "name": "Eren Yener",
-        "image": "https://media-exp1.licdn.com/dms/image/C5603AQGRKqPLRqQRmw/profile-displayphoto-shrink_200_200/0/1517367653471?e=1634774400&v=beta&t=1HmjxzkZsXc4KOLLjZEa_vafPEa9F-xY87JRa7ZeTXw"
+        "image": "https://pbs.twimg.com/profile_images/1190637782982676481/1KoFSINE_400x400.jpg"
         }
     },
     {
         "title": "Optimization tips for React",
-        "displayName": "Optimizing React Apps",
         "description": "Best practices for lighter react renderings and other stuff",
-        "date": "15 Eylül 2021",
+        "date": "19 Ekim 2021",
         "instructor": {
             "name": "Yunus Emre Dilber",
             "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGukrG-P0ISbg/profile-displayphoto-shrink_200_200/0/1608570863263?e=1634774400&v=beta&t=uRJAxYVlJuuI7k8aHadRwfz24Iutr2u58drOq9PdzIk"
@@ -21,22 +19,101 @@
     },
     {
         "title": "Optimization tips for Vue",
-        "displayName": "Optimizing Vue Apps",
         "description": "Best practices for lighter vue renderings and other stuff",
-        "date": "29 Eylül 2021",
+        "date": "2 Kasım 2021",
         "instructor": {
             "name": "Batuhan Tozun",
-            "image": ""
+            "image": "https://pbs.twimg.com/profile_images/1398650336634675203/GBkDjEjL_400x400.jpg"
         }
     },
     {
         "title": "Critical CSS",
-        "displayName": "Faster LCP and FCP by applying Critical CSS",
         "description": "Achieving faster LCP with Critical CSS",
-        "date": "29 Eylül 2021",
+        "date": "16 Kasım 2021",
         "instructor": {
             "name": "Hasan Genç",
             "image": "https://media-exp1.licdn.com/dms/image/C5603AQHA9OLHtQEGIA/profile-displayphoto-shrink_200_200/0/1517885761063?e=1634774400&v=beta&t=MUGQcGMMtHxG_AJWmqeb83nsH4P11mBfMlKfLseRpCU"
+        }
+    },
+    {
+        "title": "Challanges of Microfrontends",
+        "description": "Mess of difficulties of many servers",
+        "date": "30 Kasım 2021",
+        "instructor": {
+            "name": "Ahmet Can Güven",
+            "image": "https://pbs.twimg.com/profile_images/1396028148735692802/Q8wx-UOB_400x400.jpg"
+        }
+    },
+    {
+        "title": "Image Optimization",
+        "description": "Modern Image Technologies",
+        "date": "14 Aralık 2021",
+        "instructor": {
+            "name": "Batın Eryılmaz",
+            "image": "https://pbs.twimg.com/profile_images/1410571042133848069/es1xV0GM_400x400.jpg"
+        }
+    },
+    {
+        "title": "3rd party performance",
+        "description": "GTM, Google Analytics, Tiktok and Facebook and many others killing web",
+        "date": "28 Aralık 2021",
+        "instructor": {
+            "name": "Mert Tosun",
+            "image": "https://ca.slack-edge.com/T03Q89XFN-U01EH1UA4KW-e57548ffbbae-512"
+        }
+    },
+    {
+        "title": "TTFB diagnostics",
+        "description": "NodeJS perf matters",
+        "date": "11 Ocak 2022",
+        "instructor": {
+            "name": "Soner Çökmen",
+            "image": "https://pbs.twimg.com/profile_images/1357765702204215305/ff_MLt6v_400x400.jpg"
+        }
+    },
+    {
+        "title": "Http3",
+        "description": "The Fastest Protocol",
+        "date": "25 Ocak 2022",
+        "instructor": {
+            "name": "İsmail Hakkı Tekin",
+            "image": "https://ca.slack-edge.com/T03Q89XFN-UD4E6B6GM-3276af9941c1-512"
+        }
+    },
+    {
+        "title": "Scripting Performance Problems",
+        "description": "Finding Memory Leaks",
+        "date": "8 Şubat 2022",
+        "instructor": {
+            "name": "Barış Esen",
+            "image": "https://pbs.twimg.com/profile_images/1176613988211318785/tKOtWaLy_400x400.jpg"
+        }
+    },
+    {
+        "title": "crUX",
+        "description": "Chrome User Experience Report",
+        "date": "22 Şubat 2022",
+        "instructor": {
+            "name": "Cihad Horuzoglu",
+            "image": "https://ca.slack-edge.com/T03Q89XFN-U8NRBG7R7-96c6fb141c17-512"
+        }
+    },
+    {
+        "title": "Hybrid static & server rendering",
+        "description": "Zero configuration and fully optimized app generation with Next",
+        "date": "8 Mart 2022",
+        "instructor": {
+            "name": "Tolga Cesur",
+            "image": "https://ca.slack-edge.com/T03Q89XFN-UUSDQ51FB-b1ed82984432-512"
+        }
+    },
+    {
+        "title": "Caching techniques",
+        "description": "CDN, API, WEB, DNS and many more caching strategies",
+        "date": "22 Mart 2022",
+        "instructor": {
+            "name": "Zekeriya Keskin",
+            "image": "https://ca.slack-edge.com/T03Q89XFN-U3M7LNY5B-d8a15de371d9-512"
         }
     }
   ]
