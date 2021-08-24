@@ -1,29 +1,10 @@
-# Gatsby Serif Theme
+# Webperf.ist
 
-Serif is a beautiful small business theme for Gatsby. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Web performans üzerine odaklanmış bir topluluktur.Amacımız ulaştığımız kitlelere, web'i olabildiğince hızlı ve doğru bir şekilde ulaştırmaktır.
 
-[Live Demo](https://gatsby-serif.netlify.com/) | 
-[Zerostatic Themes](https://www.zerostatic.io/)
+[Live Demo](https://www.webperf.ist) 
 
-![Gatsby Serif Theme screenshot](https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png)
-
-## Theme features
-
-- Gatsby v3
-- Multi-page theme (not just a blog) that uses Markdown for multiple content-types/templates. It uses `gatsby-transformer-remark` and has several examples of querying and filtering `allMarkdownRemark`
-- Includes a graphql query in `gatsby-node.js` that creates pages and templates by content type based on the folder `src/pages/events`, `src/pages/team`,
-- Services (Markdown)
-- Team (Markdown)
-- Testimonials (Markdown)
-- Features (Data)
-- SCSS using `gatsby-plugin-sass`
-- Responsive design
-- Bootstrap 4 grid and media queries only
-- Responsive menu
-- Robust example content included
-- Royalty free illustrations included
-- SEO Titles & Meta using `gatsby-plugin-react-helmet`
-- ESLint
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47db56bd-9b88-4f6b-af33-5e3bbdac8aac/deploy-status)](https://app.netlify.com/sites/hardcore-carson-41bca2/deploys)
 
 ## Install
 
@@ -40,3 +21,9 @@ npm run develop
 ```
 npm run build
 ```
+
+## Current Contributors
+Mehmet Eren Yener
+Yunus Emre Dilber
+Hasan Genç
+Batın Eryılmaz
