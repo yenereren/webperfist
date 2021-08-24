@@ -30,6 +30,11 @@ const Home = props => {
         <div className="modal" tabIndex="-1" style={{'display':'block'}}>
           <div className="modal-dialog modal-dialog-centered">
             <div className="modal-content">
+              <div className="modal-header modal-header-container">
+                <button onClick={toggleModal} type="button" className="close-button">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
               <div className="modal-body">
                 <iframe className="newsletter-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfbsH4LQk-zJYlvX8KSP5DKloUavwgc0-SsBP-D6A4o8pOe6A/viewform?embedded=true" height="450" width="100%" frameBorder="0" >Yükleniyor…</iframe> 
               </div>
