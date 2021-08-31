@@ -5,7 +5,8 @@
     "socialMedia": {
         "youtube":"https://www.youtube.com/channel/UCeE6kjCIAb5nEGaeN8bxjTQ",
         "github": "https://github.com/webperfist",
-        "twitter":"https://twitter.com/webperfist"
+        "twitter":"https://twitter.com/webperfist",
+        "slack": "https://join.slack.com/t/webperfist/shared_invite/zt-uyzvfm1u-F8WSFjDmfeWWpsuUrsX5tQ"
     },
     "logo": {
         "mobile": "/images/logo/logo.svg",
