@@ -3,7 +3,9 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 module.exports = {
   siteMetadata: {
     title: 'Web Performance İstanbul',
-    description: 'webperf matters'
+    url: 'https://www.webperf.ist',
+    image: 'https://www.webperf.ist/images/logo/logo.svg',
+    description: "Web performans üzerine odaklanmış bir topluluktur.Amacımız ulaştığımız kitlelere, web'i olabildiğince hızlı ve doğru bir şekilde ulaştırmaktır."
   },
   plugins: [
     'gatsby-plugin-sass',

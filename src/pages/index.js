@@ -20,10 +20,11 @@ const Home = props => {
     <Layout bodyClass="page-home">
       <SEO title={site.title} />
       <Helmet>
-        <meta
-          name="description"
-          content="İstanbul Web Performance, web'i kitlelere daha hızlı ulaştırmak için bir araya gelen bir topluluktur."
-        />
+        <meta name="description" content={site.description} />
+        <meta property='og:title' content={site.title} />
+        <meta property='og:image' content={site.image} />
+        <meta property='og:description' content={site.description} />
+        <meta property='og:url' content={site.description} />
       </Helmet>
 
       {isModalOpen &&
@@ -187,6 +188,9 @@ export const query = graphql`
     site {
       siteMetadata {
         title
+        description
+        image
+        url
       }
     }
   }
