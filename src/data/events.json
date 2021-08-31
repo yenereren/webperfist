@@ -27,8 +27,8 @@
         }
     },
     {
-        "title": "Critical CSS",
-        "description": "Achieving faster LCP with Critical CSS",
+        "title": "The State of Web Workers",
+        "description": "Unlocking new capabilities for the web using workers.",
         "date": "16 Kasım 2021",
         "instructor": {
             "name": "Hasan Genç",
