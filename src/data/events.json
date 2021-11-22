@@ -27,21 +27,21 @@
         }
     },
     {
-        "title": "The State of Web Workers",
-        "description": "Unlocking new capabilities for the web using workers.",
-        "date": "30 Kasım 2021",
-        "instructor": {
-            "name": "Hasan Genç",
-            "image": "https://media-exp1.licdn.com/dms/image/C5603AQHA9OLHtQEGIA/profile-displayphoto-shrink_200_200/0/1517885761063?e=1634774400&v=beta&t=MUGQcGMMtHxG_AJWmqeb83nsH4P11mBfMlKfLseRpCU"
-        }
-    },
-    {
         "title": "Challanges of Microfrontends",
         "description": "Mess of difficulties of many servers",
         "date": "30 Kasım 2021",
         "instructor": {
             "name": "Ahmet Can Güven",
             "image": "https://pbs.twimg.com/profile_images/1396028148735692802/Q8wx-UOB_400x400.jpg"
+        }
+    },
+    {
+        "title": "The State of Web Workers",
+        "description": "Unlocking new capabilities for the web using workers.",
+        "date": "14 Aralık 2021",
+        "instructor": {
+            "name": "Hasan Genç",
+            "image": "https://media-exp1.licdn.com/dms/image/C5603AQHA9OLHtQEGIA/profile-displayphoto-shrink_200_200/0/1517885761063?e=1634774400&v=beta&t=MUGQcGMMtHxG_AJWmqeb83nsH4P11mBfMlKfLseRpCU"
         }
     },
     {
