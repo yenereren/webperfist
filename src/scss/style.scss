@@ -77,3 +77,37 @@ body {
   font-size: 14px;
   height: 40px;
 }
+
+.social-media {
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 5px;
+
+  a {
+    color: inherit;
+  }
+
+  &.youtube-bg {
+    background: #e60000;
+    color: white;
+  }
+
+  &.kommunity-bg{
+    background: #ffbc00;
+    color: black;
+  }
+
+  &.twitter-bg{
+    background: #1d9bf0;
+    color: white;
+  }
+}
+
+.upcoming-event-title{
+  font-size: 22px;
+  font-weight: bold;
+}
+.upcoming-event{
+  width: 100%;
+}
