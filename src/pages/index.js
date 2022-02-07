@@ -48,7 +48,7 @@ const Home = props => {
       </div>
 
       <div className="container mt-2">
-          <span className={"upcoming-event-title"}>Bir Sonraki Etkinliğimiz - 2 Şubat 2022 19:30</span>
+          <span className={"upcoming-event-title"}>Bir Sonraki Etkinliğimiz - 7 Şubat 2022 19:30</span>
           <a  target={"_blank"} href={"https://www.youtube.com/watch?v=fXD7PWXlOwA"}>
             <img className={"upcoming-event mt-1"} src={"/images/event-images/week7.png"} />
           </a>
